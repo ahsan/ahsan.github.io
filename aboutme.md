@@ -18,4 +18,4 @@ For any potential recruiters reading this, I also have some professional experie
 
 ### Want more detail?
 
-You can learn more about me by taking a look at my [resume](https://s3.amazonaws.com/abdullahahsan/abdullah_ahsan_resume.pdf?versionId=ueuci8mmQ4FBw.ugnREZ92XrSYS2REHi).
+You can learn more about me by taking a look at my [resume](https://s3.amazonaws.com/abdullahahsan/abdullah_ahsan_resume.pdf?versionId=AzbuJLJjEV3h8SMJ0xk1YSddy94dQWRu).
