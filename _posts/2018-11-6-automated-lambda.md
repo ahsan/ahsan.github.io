@@ -134,3 +134,7 @@ And that's it! Now you have a fully automated pipeline that deploys your AWS Lam
 
 - The GitHub project that is being deployed by this pipeline can be found at [github.com/ahsan/bender](https://www.github.com/ahsan/bender).
 - The application can be accessed on this [link](https://8vm545tod0.execute-api.us-east-1.amazonaws.com/production).
+
+# EDIT
+Here is a brief presentation from the talk that I gave on this topic:
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTH4YE5FFKWeX-_uTesCTzX7QemEUMF2mPREPOYlOd_Pd5sxuc6Qhtrd9WIrXebrqbL3_SmQeeaOkNL/embed?start=false&loop=false&delayms=3000" frameborder="0" width="700" height="437" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
