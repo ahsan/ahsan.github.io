@@ -57,4 +57,4 @@ if (cluster.isMaster) {
 }
 ```
 
-Once you have your Node app making full use of your host machine, the next logical step for increasing the app performance even further is to have a load-balanced distributed deployment using a tool like Kubernetes, which ofcourse you know already due to my previous blog-posts :-)
+Once you have your Node app making full use of your host machine, the next logical step for increasing the app performance even further is to have a load-balanced distributed deployment using a tool like Kubernetes, which of course you know already due to my previous blog-posts :-)
