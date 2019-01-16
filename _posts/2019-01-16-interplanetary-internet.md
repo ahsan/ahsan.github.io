@@ -3,7 +3,7 @@ layout: post
 title: Interplanetary Internet
 ---
 
-How will the Internet look like when humanity has reached interplanetary status? With companies like SpaceX aspiring to land the first humans on [Mars by 2024](https://www.bbc.com/news/science-environment-41441877), we don't have a lot of time to figure it out. Thankfully there has already been some development in this *space*.
+Whar will the Internet look like when humanity has reached interplanetary status? With companies like SpaceX aspiring to land the first humans on [Mars by 2024](https://www.bbc.com/news/science-environment-41441877), we don't have a lot of time to figure it out. Thankfully there has already been some development in this *space*.
 
 In one of my [previous](https://ahsan.io/2018-12-29-world-runs-tech/) blog-posts I briefly mentioned why the Internet has become such a vital part of modern society and what is the infrastructure that is supporting it. Surely, as civilization conquers other planets, it would want to take the Internet *with it*.
 
