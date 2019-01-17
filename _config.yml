@@ -24,7 +24,7 @@ description: A place for all things Cloud DevOps.
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resume: "https://s3.amazonaws.com/abdullahahsan/abdullah_ahsan_resume.pdf?versionId=AzbuJLJjEV3h8SMJ0xk1YSddy94dQWRu"
+  Resume: "https://s3.amazonaws.com/abdullahahsan/abdullah_ahsan_resume.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
