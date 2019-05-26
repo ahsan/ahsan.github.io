@@ -1,6 +1,6 @@
 ---
 layout: post
-title: `class` SRE `implements` DevOps
+title: Class SRE Implements DevOps
 ---
 
 Site Reliability Engineering (SRE) and DevOps are two ideas that have different origins but the same underlying objectives.
