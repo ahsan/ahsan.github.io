@@ -30,4 +30,4 @@ deep_copy = deepcopy(original_dict)
 id(original_dict['foo']) == id(deep_copy['foo'])
 ```
 
-Now you know how copying of dictionaries works in Python, and can avoid making the mistakes I made. 🙂
+Now you know how copying of dictionaries works in Python. 🙂
