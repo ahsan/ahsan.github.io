@@ -1,21 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+# subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Abdullah Ahsan. I have the following qualities:
+<div align="center">
+  <img src="../img/spree.jpg" width="800">
+  <div>Spree - Oct, 2019</div>
+</div>
 
-- I have a great sense of humour
-- I play rock guitar (or atleast I pretend to)
+I'm Abdullah. A twenty-something, STEM graduate, currently living in Berlin. Although terrible at playing the guitar, I _am_ good at other things. Software engineering being one of them. In my day job, I build efficient and scalable distributed systems. In this blog I write about anything and everything that interests me. Which mostly revolves around mathematics, software and embedded systems.
 
-For any potential recruiters reading this, I also have some professional experience working as a **Software Engineer**.
-
-- I have worked extensively in back-end systems design, development and deployment
-- I am passionate about Cloud technologies
-- I am experienced in Cloud DevOps for Cloud Native Applications
-- I also hold an active **AWS Cloud Solutions Architect** (Associate) certification
-
-### Want more detail?
-
-You can learn more about me by taking a look at my [resume](https://s3.amazonaws.com/abdullahahsan/abdullah_ahsan_resume.pdf).
+If you want to get in touch, you can find my contact info in this page's footer. I also try to keep my resume up to date [here](https://s3.amazonaws.com/abdullahahsan/abdullah_ahsan_resume.pdf).
