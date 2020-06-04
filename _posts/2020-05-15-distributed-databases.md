@@ -54,3 +54,5 @@ The exploration of these algorithms is a task for future blog posts.
 - [Distributed Databases, M. Tamer Özsu](https://cs.uwaterloo.ca/~tozsu/publications/distdb/distdb.pdf)
 - [CAP Theorem](https://en.wikipedia.org/wiki/CAP_theorem)
 - [In Search of an Understandable Consensus Algorithm (Raft)](https://raft.github.io/raft.pdf)
+
+![](https://imgs.xkcd.com/comics/eventual_consistency.png)
