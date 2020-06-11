@@ -56,3 +56,4 @@ The exploration of these algorithms is a task for future blog posts.
 - [In Search of an Understandable Consensus Algorithm (Raft)](https://raft.github.io/raft.pdf)
 
 ![xkcd](https://imgs.xkcd.com/comics/eventual_consistency.png)
+Image source: [xkcd](https://xkcd.com/2315/).
